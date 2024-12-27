@@ -1,0 +1,32 @@
+{
+    "below13": {
+        "truths": [
+            "What is your favorite color?",
+            "What is your favorite cartoon?"
+        ],
+        "dares": [
+            "Do a silly dance.",
+            "Sing your favorite song."
+        ]
+    },
+    "pg13": {
+        "truths": [
+            "What is your biggest fear?",
+            "What is your most embarrassing moment?"
+        ],
+        "dares": [
+            "Do 20 pushups.",
+            "Sing a song in a funny voice."
+        ]
+    },
+    "pg18": {
+        "truths": [
+            "What is your biggest secret?",
+            "What is the most daring thing you have ever done?"
+        ],
+        "dares": [
+            "Post an embarrassing photo of yourself.",
+            "Do a prank call."
+        ]
+    }
+}
