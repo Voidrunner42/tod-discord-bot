@@ -1,0 +1,1 @@
+Simple Truth or dare discord but, i made in 30 min because i was mad in a call with some friends since a discord bot wanted money to be able to make your own questions questions and this is also able to do nsfw questions.
